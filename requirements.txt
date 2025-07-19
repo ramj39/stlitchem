@@ -1,6 +1,7 @@
 streamlit
 pandas
 pubchempy
+rdkit
 requests
 openpyxl
 matplotlib
