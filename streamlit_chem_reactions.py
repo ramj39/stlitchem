@@ -495,6 +495,7 @@ with tab3:
     st.markdown("- [Organic Synthesis Search](https://www.organic-synthesis.org/)")
     st.markdown("- [Retrosynthesis Tools](https://scifinder-n.cas.org/)")
     st.markdown("- [organic synthesis](https://en.wikipedia.org/wiki/Organic_synthesis)")
+    st.markdown("- [Darzwns Reaction](https://en.wikipedia.org/wiki/Darzens_reaction/)")
     st.markdown("### Named Reactions")
     st.markdown("- [Named Reactions in Organic Chemistry](https://organicchemistrydata.org/namedreactions/)")
     st.markdown("- [Comprehensive Named Reactions List](https://www.chem.ucla.edu/~harding/IGOC/N/named_reactions.html)")
