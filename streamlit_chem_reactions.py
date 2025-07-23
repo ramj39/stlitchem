@@ -507,9 +507,9 @@ with tab3:
     st.markdown("### Interactive Learning")
     st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
     st.markdown("- [Chemical Structure Drawing](https://www.acdlabs.com/resources/freeware/#chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
-    st.markdown("- [Chemical Structure Drawing](https://ccustomer.perkinelmer.com/#ncbi.nlm.nih.gov//edit3/index.html)")
-    st.markdown("- [Chemical Structure Drawing](https//web.chemdoodle.com/)")
-    st.markdown("- [Chemical Structure Drawing](https//molview.org/)")
+    #st.markdown("- [Chemical Structure Drawing](https://ccustomer.perkinelmer.com/#ncbi.nlm.nih.gov//edit3/index.html)")
+    #st.markdown("- [Chemical Structure Drawing](https//web.chemdoodle.com/)")
+    #st.markdown("- [Chemical Structure Drawing](https//molview.org/)")
     st.markdown("- [Molsoft L.L.C.: Drug-Likeness and molecular property prediction](https://molsoft.com/mprop/)")
 # Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
