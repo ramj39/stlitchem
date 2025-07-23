@@ -489,7 +489,7 @@ with tab3:
     st.markdown("- [Organic Chemistry Portal](https://www.organic-chemistry.org/)")
     st.markdown("- [Master Organic Chemistry](https://www.masterorganicchemistry.com/)")
     st.markdown("- [Khan Academy Organic Chemistry](https://www.khanacademy.org/science/organic-chemistry)")
-    
+    st.markdown("- [Organic Chemistry Portal](https://archive.org/details/finarorganicchemistryvol1/)")
     st.markdown("### Synthesis Planning")
     st.markdown("- [SynArchive Database](https://synarchive.com/)")
     st.markdown("- [Organic Synthesis Search](https://www.organic-synthesis.org/)")
@@ -500,9 +500,9 @@ with tab3:
     st.markdown("- [Comprehensive Named Reactions List](https://www.chem.ucla.edu/~harding/IGOC/N/named_reactions.html)")
     
     st.markdown("### Interactive Learning")
-    #st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
+    st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
     st.markdown("- [Chemical Structure Drawing](https://www.acdlabs.com/resources/freeware/#chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
-    #st.markdown("- [Chemical Structure Drawing](https://ncbi.nlm.nih.gov//edit3/index.html)")
+    st.markdown("- [Chemical Structure Drawing](https://ccustomer.perkinelmer.com/#ncbi.nlm.nih.gov//edit3/index.html)")
 # Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
 st.sidebar.info("This app provides:")
