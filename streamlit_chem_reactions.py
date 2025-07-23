@@ -501,8 +501,8 @@ with tab3:
     
     st.markdown("### Interactive Learning")
     st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
-    st.markdown("- [Chemical Structure Drawing](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
-
+    #st.markdown("- [Chemical Structure Drawing](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
+    st.markdown("- [Chemical Structure Drawing](https://ncbi.nlm.nih.gov//edit3/index.html)")
 # Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
 st.sidebar.info("This app provides:")
