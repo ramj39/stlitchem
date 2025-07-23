@@ -495,8 +495,8 @@ with tab3:
     st.markdown("- [Organic Synthesis Search](https://www.organic-synthesis.org/)")
     st.markdown("- [Retrosynthesis Tools](https://scifinder-n.cas.org/)")
     st.markdown("- [organic synthesis](https://en.wikipedia.org/wiki/Organic_synthesis)")
-    print("-------------------------------------------------")
-    print("below are listed some named synthesis/reactions")
+print("-------------------------------------------------")
+print("below are listed some named synthesis/reactions")
     st.markdown("- [Darzwns Reaction](https://en.wikipedia.org/wiki/Darzens_reaction/)")
     st.markdown("- [Arndt Eistert Reaction](https://www.organic-chemistry.org/namedreactions/arndt-eistert-synthesis.shtm/)")
     st.markdown("- [Hoffmann-Martius Rearrangement](https://en.wikipedia.org/wiki/Hofmann%E2%80%93Martius_rearrangement/)")
@@ -508,7 +508,9 @@ with tab3:
     st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
     st.markdown("- [Chemical Structure Drawing](https://www.acdlabs.com/resources/freeware/#chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
     st.markdown("- [Chemical Structure Drawing](https://ccustomer.perkinelmer.com/#ncbi.nlm.nih.gov//edit3/index.html)")
-# Features explanation in sidebar
+    st.markdown("- [Chemical Structure Drawing](https//web.chemdoodle.com/)
+    st.markdown("- [Chemical Structure Drawing](https//molview.org/)
+    # Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
 st.sidebar.info("This app provides:")
 st.sidebar.info("- Chemical equation balancing")
