@@ -500,8 +500,8 @@ with tab3:
     st.markdown("- [Comprehensive Named Reactions List](https://www.chem.ucla.edu/~harding/IGOC/N/named_reactions.html)")
     
     st.markdown("### Interactive Learning")
-    st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
-    #st.markdown("- [Chemical Structure Drawing](https://www.acdlabs.com/resources/freeware/#chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
+    #st.markdown("- [Virtual Organic Chemistry Lab](https://www.labster.com/simulations/organic-chemistry/)")
+    st.markdown("- [Chemical Structure Drawing](https://www.acdlabs.com/resources/freeware/#chemdrawdirect.perkinelmer.cloud/js/sample/index.html)")
     #st.markdown("- [Chemical Structure Drawing](https://ncbi.nlm.nih.gov//edit3/index.html)")
 # Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
