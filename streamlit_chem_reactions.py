@@ -510,7 +510,8 @@ with tab3:
     st.markdown("- [Chemical Structure Drawing](https://ccustomer.perkinelmer.com/#ncbi.nlm.nih.gov//edit3/index.html)")
     st.markdown("- [Chemical Structure Drawing](https//web.chemdoodle.com/)")
     st.markdown("- [Chemical Structure Drawing](https//molview.org/)")
-    # Features explanation in sidebar
+    st.markdown("- [Molsoft L.L.C.: Drug-Likeness and molecular property prediction](https://molsoft.com/mprop/)")
+# Features explanation in sidebar
 st.sidebar.title("Organic Synthesis Explorer")
 st.sidebar.info("This app provides:")
 st.sidebar.info("- Chemical equation balancing")
