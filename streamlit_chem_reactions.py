@@ -45,7 +45,7 @@ COMMON_REACTIONS = {
     "reimer-tiemann reaction": ("C6H5OH + CHCl3", "o-HOC6H4CHO"),
     "clemmensen reduction": ("R-C=O", "R-CH2"),
     "wolff-kishner reduction": ("R-C=O", "R-CH2"),
-    "darzens glycidic ester condensation":("https//en.mwikipedia.org/wiki/Darzens_reaction"),
+    "darzens glycidic ester condensation":("R-CO","RR-COR"),
     
     # Previous reactions
     "chlorination of benzene": ("C6H6 + Cl2", "C6H5Cl + HCl"),
