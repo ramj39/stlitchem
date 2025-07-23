@@ -497,6 +497,7 @@ with tab3:
     st.markdown("- [organic synthesis](https://en.wikipedia.org/wiki/Organic_synthesis)")
     st.markdown("- [Darzwns Reaction](https://en.wikipedia.org/wiki/Darzens_reaction/)")
     st.markdown("- [Arndt Eistert Reaction](https://www.organic-chemistry.org/namedreactions/arndt-eistert-synthesis.shtm/)")
+    st.markdown("- [Hoffmann-Martius Rearrangement](https://en.wikipedia.org/wiki/Hofmann%E2%80%93Martius_rearrangement/)")
     st.markdown("### Named Reactions")
     st.markdown("- [Named Reactions in Organic Chemistry](https://organicchemistrydata.org/namedreactions/)")
     st.markdown("- [Comprehensive Named Reactions List](https://www.chem.ucla.edu/~harding/IGOC/N/named_reactions.html)")
