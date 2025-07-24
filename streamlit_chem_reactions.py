@@ -504,7 +504,7 @@ with tab3:
     st,markdown("[Pinacol Coupling Reaction](https://en.wikipedia.org/wiki/Pinacol_coupling_reaction)")
     st.markdown("[Pinacol rearrangement](https://en.wikipedia.org/wiki/Pinacol_rearrangement)")
     #st.markdown("### Named Reactions")
-    st.markdown("- [Named Reactions in Organic Chemistry](https://organicchemistrydata.org/namedreactions/)")
+    st.markdown("[Named Reactions in Organic Chemistry](https://organicchemistrydata.org/namedreactions/)")
     st.markdown("- [Comprehensive Named Reactions List](https://www.chem.ucla.edu/~harding/IGOC/N/named_reactions.html)")
     
     st.markdown("### Interactive Learning")
