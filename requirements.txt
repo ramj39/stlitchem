@@ -1,10 +1,5 @@
-streamlit
-chempy
-pandas
-pubchempy
+streamlit==1.32.0
+requests==2.31.0
+pandas==2.2.2
+chembl_webresource_client
 rdkit
-requests
-openpyxl
-matplotlib
-seaborn
-
